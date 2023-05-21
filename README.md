@@ -1,3 +1,7 @@
+To start the project
+# npm i --legacy-peer-deps
+# npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

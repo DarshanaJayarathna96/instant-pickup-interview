@@ -21,3 +21,7 @@ function App() {
 }
 
 export default App;
+
+// To start the project
+// npm i --legacy-peer-deps
+// npm start
